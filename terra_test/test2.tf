@@ -1,10 +1,3 @@
-block_type "label" "name_label" {
-    key = "value"
-    nested_block {
-        key = "value"
-    }
-}
-
 resource "aws_instance" "web_server" {
 
     ebs_block_device {
