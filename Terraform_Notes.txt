@@ -1,0 +1,22 @@
+Radar is the framework and overall name of the applications AG writes.
+    A web application and services 
+    Running on kubernetes
+
+HELM Chart - Learn this
+
+The mess we have of storage accounts. Most storage accounts when they were created you have public access.
+
+We are moving everything to private access using private endpoints in azure.
+
+Since we know some of them will break... there's an individual lookup zone for each resource
+that's been converted to private endpoints
+
+Terraform module for storage accounts
+
+Inventory of storage accounts:
+
+1. Install powershell 7
+
+2. AZ CLI - you can install zipped version
+
+3. Azure Storage Accounts - Redundancy
