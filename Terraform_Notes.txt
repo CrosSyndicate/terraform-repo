@@ -20,3 +20,9 @@ Inventory of storage accounts:
 2. AZ CLI - you can install zipped version
 
 3. Azure Storage Accounts - Redundancy
+
+---AWS---
+
+Access Keys:
+
+GriffAdmin : AKIA2RJ5IHDEQFSS6ZZC
